@@ -1,7 +1,7 @@
 /**
- * Paquete concesionarioCoches.
+ * Paquetazo concesionarioCoches.
  */
-package pgn.examenMarzo.concesionarioCoches;
+Package pgn.examenMarzo.concesionarioCoches;
 /**
  * Clase Pattern.
  */
