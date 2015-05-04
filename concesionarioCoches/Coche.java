@@ -8,7 +8,7 @@ Package pgn.examenMarzo.concesionarioCoches;
 import java.util.regex.Pattern;
 /**
  * Clase coche que define los m&eacute;todos y atributos de un objeto coche.
- * @author Ra&uacute;l Moreno Povedano
+ * @author Ra&uacute;l Moreno Povedano y amigos
  *
  */
 public class Coche {
