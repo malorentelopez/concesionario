@@ -4,7 +4,7 @@
 package pgn.examenMarzo.concesionarioCoches;
 /**
  * Marcas de los coches del concesionario
- * @author Ra&uacute;l Moreno Povedano
+ * @author Ra&uacute;l Moreno Povedano y amigos
  *
  */
 public enum Marca {
